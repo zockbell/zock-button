@@ -1,0 +1,10 @@
+{
+  "name": "zock-button",
+  "version": "1.0.4",
+  "description": "基于vue的button按钮",
+  "main": "zock-button.umd.js",
+  "keyword": "zock-button",
+  "author": "zock",
+  "private": false,
+  "license": "ISC"
+}
